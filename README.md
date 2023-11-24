@@ -17,6 +17,6 @@ yuneunlx@gmail.com
 C++ DirectX12 
 
 ## 🖥️ used at least once
-Java python Unity 
+Java Python Unity 
 
 

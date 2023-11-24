@@ -1,11 +1,9 @@
 ## 📌 SNS list 📌
-notion
-##
+notion 
 
 
 ## 📌 Email 📌
 yuneunlx@gmail.com
-##
 
 
 ## ⚙️ Tech Stack ⚙️

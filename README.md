@@ -1,8 +1,12 @@
 ## 📌 SNS list 📌
 notion
+##
+
 
 ## 📌 Email 📌
 yuneunlx@gmail.com
+##
+
 
 ## ⚙️ Tech Stack ⚙️
 ### 🖥️ used as the main
@@ -10,6 +14,7 @@ C++ DirectX12
 
 ### 🖥️ used at least once
 Java Python Unity Mysql
+
 
 ##
 반갑습니다

@@ -2,8 +2,10 @@
 notion 
 
 
+
 ## 📌 Email 📌
 yuneunlx@gmail.com
+
 
 
 ## ⚙️ Tech Stack ⚙️
@@ -12,6 +14,7 @@ C++ DirectX12
 
 ### 🖥️ used at least once
 Java Python Unity Mysql
+
 
 
 ##

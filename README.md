@@ -13,7 +13,7 @@ yuneunlx@gmail.com
 C++ DirectX12 
 
 ### 🖥️ used at least once
-C# VTK QT Java Python Unity Mysql
+OpenGL WindowsAPI C# VTK QT Java Python 
 
 
 ##

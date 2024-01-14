@@ -13,11 +13,11 @@ yuneunlx@gmail.com
 C++ DirectX12 
 
 ### 🖥️ used at least once
-Java Python Unity Mysql
+C# VTK QT Java Python Unity Mysql
 
 
 ##
-반갑습니다
+반갑습니다.
 
 제 이름은 윤은지이고 게임 개발을 공부하고 있어요!
 

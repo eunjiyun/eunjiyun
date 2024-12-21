@@ -1,6 +1,6 @@
 ## 📌 SNS list 📌
 notion 
-https://awake-degree-72b.notion.site/PORTFOLIO-bdcc63a32b9647b095e8a049e25254a9?pvs=4
+# https://awake-degree-72b.notion.site/PORTFOLIO-bdcc63a32b9647b095e8a049e25254a9?pvs=4
 
 
 ## 📌 Email 📌

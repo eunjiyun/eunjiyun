@@ -36,16 +36,7 @@
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight" />
-
-</div>
 
 ---
 
@@ -56,7 +47,7 @@
 <a href="mailto:yuneunlx@gmail.com">
   <img src="https://img.shields.io/badge/yuneunlx@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="YOUR_NOTION_LINK">
+<a href="[YOUR_NOTION_LINK](https://app.notion.com/p/PORTFOLIO-bdcc63a32b9647b095e8a049e25254a9)">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </a>
 

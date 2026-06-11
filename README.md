@@ -2,8 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Yun%20Eunji&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Graphics%20%26%20Game%20Developer&descSize=18&descAlignY=64" width="100%"/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F8DFD&center=true&vCenter=true&width=520&lines=Graphics+%26+Game+Developer;3D+Viewer+Developer;Always+ready+to+learn+anything." alt="Typing SVG" />
+<a href="https://github.com/eunjiyun">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4F8DFD&center=true&vCenter=true&width=520&height=50&lines=Graphics+%26+Game+Developer;3D+Viewer+Developer;Always+ready+to+learn+anything." alt="Typing SVG" />
 </a>
 
 </div>
@@ -47,7 +47,7 @@
 <a href="mailto:yuneunlx@gmail.com">
   <img src="https://img.shields.io/badge/yuneunlx@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="[YOUR_NOTION_LINK](https://app.notion.com/p/PORTFOLIO-bdcc63a32b9647b095e8a049e25254a9)">
+<a href="https://app.notion.com/p/PORTFOLIO-bdcc63a32b9647b095e8a049e25254a9">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </a>
 
